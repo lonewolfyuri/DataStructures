@@ -1,0 +1,10 @@
+File: random.txt. Num Words: 4500.	 Function: insertAllWords.	Time: 0.006401s
+File: random.txt. Num Words: 4500.	 Function: findAllWords.	Time: 0.005965s
+Arturo
+techniques
+Smallwood
+conformal
+controlling
+lust
+errors
+spareness
